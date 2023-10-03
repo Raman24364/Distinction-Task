@@ -1,0 +1,163 @@
+.First {
+    border: 2px solid black;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(211, 211, 211);
+}
+.Nav{
+    margin: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 50px;
+    background-color: aqua;
+    padding: 30px;
+}
+a{
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: 900;
+}
+
+.label {
+    font-size: 22px;
+}
+
+.Title_add {
+    margin-top: 20px;
+}
+
+.Title-1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.h_tag {
+    font-weight: 900;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    margin-top: 30px;
+    margin: 5px;
+}
+
+.Heading {
+    font-weight: bolder;
+}
+
+.textbox {
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+#area {
+    width: 100%;
+}
+
+.Tags {
+    display: flex;
+    font-weight: bolder;
+}
+
+#text {
+    width: 100%;
+    background-color: rgb(216, 216, 216);
+}
+
+#Input {
+    width: 95%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(216, 216, 216);
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.button {
+    margin-left: auto;
+}
+
+textarea {
+    font-size: larger;
+    font-style: italic;
+    font-weight: 700;
+    background-color: rgb(233, 255, 255);
+}
+
+.Title {
+    width: 95%;
+    padding: 8px;
+    background-color: rgb(195, 195, 195);
+
+}
+
+.Heading_Border {
+    border: 2px solid black;
+    background-color: rgb(203, 203, 203);
+}
+
+.Text_Adding {
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+
+}
+
+.Article_Margin {
+    margin-top: 20px;
+}
+
+.button {
+    text-align: right;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.Adding {
+    font-size: 25px;
+}
+
+.Extra_Content {
+    display: flex;
+
+}
+
+.B_button {
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 58, 58);
+}
+.List, img{
+    width:250px;
+    height:300px;
+    border:2px solid black;
+    border-color: blue;
+}
+
+.Added_Style{
+   float: right;
+}
+.Added_Data{
+   
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
